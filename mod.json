@@ -1,0 +1,17 @@
+{
+	"geode": "5.10.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "whosisthis6.run-tracker",
+	"name": "Run Tracker",
+	"version": "v1.0.0",
+	"developer": "whosisthis6",
+	"description": "",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
